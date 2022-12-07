@@ -1,0 +1,565 @@
+{
+  "pagesCount": 35,
+  "films": [
+    {
+      "filmId": 1045585,
+      "nameRu": "Сердце пармы",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "02:39",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "rating": "7.1",
+      "ratingVoteCount": 33057,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1045585.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1045585.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4661294,
+      "nameRu": "Сёстры",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:50",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": "99.17%",
+      "ratingVoteCount": 0,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4661294.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4661294.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1009017,
+      "nameRu": "Чёрный Адам",
+      "nameEn": "Black Adam",
+      "year": "2022",
+      "filmLength": "02:05",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Новая Зеландия"
+        },
+        {
+          "country": "Венгрия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "rating": "6.4",
+      "ratingVoteCount": 20127,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1009017.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1009017.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1199773,
+      "nameRu": "Чёрная Пантера: Ваканда навеки",
+      "nameEn": "Black Panther: Wakanda Forever",
+      "year": "2022",
+      "filmLength": "02:41",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": "6.8",
+      "ratingVoteCount": 8715,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1199773.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1199773.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1209527,
+      "nameRu": "Три тысячи лет желаний",
+      "nameEn": "Three Thousand Years of Longing",
+      "year": "2022",
+      "filmLength": "01:48",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "rating": "6.9",
+      "ratingVoteCount": 32648,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1209527.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1209527.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4958223,
+      "nameRu": "Ёлки 9",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:30",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "34.14%",
+      "ratingVoteCount": 0,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4958223.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4958223.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 505898,
+      "nameRu": "Аватар: Путь воды",
+      "nameEn": "Avatar: The Way of Water",
+      "year": "2022",
+      "filmLength": "03:10",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "rating": "90.99%",
+      "ratingVoteCount": 2,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/505898.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/505898.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 689,
+      "nameRu": "Гарри Поттер и философский камень",
+      "nameEn": "Harry Potter and the Sorcerer's Stone",
+      "year": "2001",
+      "filmLength": "02:32",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "rating": "8.2",
+      "ratingVoteCount": 741949,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/689.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/689.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4542208,
+      "nameRu": "Вышка",
+      "nameEn": "Fall",
+      "year": "2022",
+      "filmLength": "01:47",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": "6.8",
+      "ratingVoteCount": 215199,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4542208.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4542208.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4539537,
+      "nameRu": "Корабль в Пусан",
+      "nameEn": "Neukdaesanyang",
+      "year": "2022",
+      "filmLength": "02:01",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": "98.86%",
+      "ratingVoteCount": 424,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4539537.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4539537.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 5116673,
+      "nameRu": "Петр I: Последний царь и первый император",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:52",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "история"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": "7.0",
+      "ratingVoteCount": 7630,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5116673.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5116673.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1392550,
+      "nameRu": "Быстрее пули",
+      "nameEn": "Bullet Train",
+      "year": "2022",
+      "filmLength": "02:06",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "7.7",
+      "ratingVoteCount": 76297,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1392550.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1392550.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4472346,
+      "nameRu": "Покерфейс",
+      "nameEn": "Poker Face",
+      "year": "2022",
+      "filmLength": "01:35",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": "99.56%",
+      "ratingVoteCount": 0,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4472346.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4472346.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 969760,
+      "nameRu": "Ламборгини: Человек-легенда",
+      "nameEn": "Lamborghini: The Man Behind the Legend",
+      "year": "2022",
+      "filmLength": "01:37",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "спорт"
+        }
+      ],
+      "rating": "6.0",
+      "ratingVoteCount": 358,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/969760.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/969760.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4856074,
+      "nameRu": "Честный развод 2",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:20",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 0,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4856074.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4856074.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1257264,
+      "nameRu": "Меню",
+      "nameEn": "The Menu",
+      "year": "2022",
+      "filmLength": "01:47",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "7.1",
+      "ratingVoteCount": 968,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1257264.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1257264.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1143242,
+      "nameRu": "Джентльмены",
+      "nameEn": "The Gentlemen",
+      "year": "2019",
+      "filmLength": "01:53",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "8.5",
+      "ratingVoteCount": 1168472,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1143242.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1143242.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 316376,
+      "nameRu": "На Западном фронте без перемен",
+      "nameEn": "Im Westen nichts Neues",
+      "year": "2022",
+      "filmLength": "02:28",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "rating": "7.7",
+      "ratingVoteCount": 11712,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/316376.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/316376.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 5047298,
+      "nameRu": "Слон",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:27",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": "6.4",
+      "ratingVoteCount": 686,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5047298.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5047298.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 4853046,
+      "nameRu": "Царство против разбойников",
+      "nameEn": null,
+      "year": "2022",
+      "filmLength": "01:12",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 27,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4853046.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4853046.jpg",
+      "ratingChange": null
+    }
+  ]
+}

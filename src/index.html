@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <title>Кинобомж</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="header__logo logo">
+        <img src="./assets/img/logo.png" alt="Логотип" class="header__logo-image" />
+        <span class="header__logo-text">Кинобомж</span>
+      </div>
+      <div class="header__search search">
+        <input type="text" class="header__search-input" placeholder="Поиск фильмов" />
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="content__movies"></div>
+    </div>
+
+    <div class="popup popup__video">
+      <div class="popup__overlay"></div>
+      <div class="popup__window">
+        <h3 class="popup__title"></h3>
+        <div class="popup__content"></div>
+      </div>
+    </div>
+
+    <div class="footer">&copy; Pavel Herzik</div>
+
+    <template id="movies">
+      <div class="content__movies-item">
+        <div class="content__movies-cover">
+          <img src="#" alt="#" class="content__movies-image" />
+        </div>
+
+        <div class="content__movies-cover_darkened"></div>
+
+        <div class="content__movies-header">
+          <div class="content__movies-rating"></div>
+          <div class="content__movies-info">i</div>
+        </div>
+
+        <div class="content__movies-play"></div>
+        <div class="content__movies-footer">
+          <h3 title="" class="content__movies-title"></h3>
+          <h4 title="" class="content__movies-genre"></h4>
+        </div>
+      </div>
+    </template>
+  </body>
+</html>
