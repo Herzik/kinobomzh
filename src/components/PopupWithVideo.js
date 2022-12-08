@@ -6,8 +6,14 @@ export default class PopupWithVideo extends Popup {
     this._content = this._popup.querySelector('.popup__content')
   }
 
-  open(id) {
-    const video = `<div id="yohoho" data-kinopoisk="${id}"></div>`
-    this._content.append(video)
+  open(filmId) {
+    const video = `<div id="yohoho" data-kinopoisk="${filmId}"></div>`
+    this._content.insertAdjacentHTML('beforeend', video)
+    super.open()
+  }
+
+  close() {
+    this._content.innerHTML = ''
+    super.close()
   }
 }

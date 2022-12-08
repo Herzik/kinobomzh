@@ -29,7 +29,6 @@ export default class Films {
     this._handlePlayClick = handlePlayClick
 
     this._filmCard = this._getTemplate()
-    this._filmContainer = this._filmCard.querySelector('.content__movies-item')
     this._filmPoster = this._filmCard.querySelector('.content__movies-image')
     this._filmRating = this._filmCard.querySelector('.content__movies-rating')
     this._filmInfoButton = this._filmCard.querySelector('.content__movies-info')
@@ -65,7 +64,7 @@ export default class Films {
 
   generateFilms() {
     this._setEventListeners()
-
+    this._filmCard.setAttribute('id', this._filmId)
     this._filmPoster.src = this._posterUrlPreview
     this._filmRating.textContent =
       this._rating == null ? 'No' : this._rating.includes('%') ? '%' : this._rating

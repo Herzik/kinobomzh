@@ -1,22 +1,22 @@
-<div class="content__movies-item">
+<div id="${this._filmId}" class="content__movies-item">
   <div class="content__movies-cover">
-    <img
-      src="./assets/img/the-last-of-us.jpg"
-      alt="The last of Us"
-      class="content__movies-image"
-    />
+    <img src="${this._posterUrlPreview}" alt="${this._nameRu}" class="content__movies-image" />
   </div>
 
   <div class="content__movies-cover_darkened"></div>
 
   <div class="content__movies-header">
-    <div class="content__movies-rating">7.2</div>
+    <div class="content__movies-rating">
+      ${ this._rating == null ? 'No' : this._rating.includes('%') ? '%' : this._rating }
+    </div>
     <div class="content__movies-info">i</div>
   </div>
 
   <div class="content__movies-play"></div>
   <div class="content__movies-footer">
-    <div class="content__movies-title">Название фильма</div>
-    <div class="content__movies-genre">Жанр, Ужасы, Комедия, Мелодрамма</div>
+    <h3 title="${this._nameRu}" class="content__movies-title">${this._nameRu}</h3>
+    <h4 title="${this._genresToString()}" class="content__movies-genre">
+      ${this._genresToString()}
+    </h4>
   </div>
 </div>

@@ -16,7 +16,7 @@ const apiConfig = {
 const api = new Api(apiConfig)
 
 api.getFilmsTop().then(data => {
-  // console.log(data)
+  console.log(data.pagesCount)
   filmList.setRendererItems(data.films)
   filmList.renderItems()
 })
@@ -57,6 +57,7 @@ const createFilm = ({
       posterUrl,
       posterUrlPreview,
       handlePlayClick: () => {
+        console.log()
         popupWithVideo.open(filmId)
       },
     },
