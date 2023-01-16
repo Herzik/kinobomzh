@@ -58,14 +58,14 @@ module.exports = {
         test: /\.(png|svg|jpg|jpeg|gif|ico)$/,
         type: 'asset/resource',
         generator: {
-          filename: 'images/[name].[hash][ext]',
+          filename: isProd ? 'images/[name].[hash][ext]' : 'images/[name].[ext]',
         },
       },
       {
         test: /\.(woff(2)?|eot|ttf|otf)$/,
         type: 'asset/resource',
         generator: {
-          filename: 'fonts/[name].[hash][ext]',
+          filename: isProd ? 'fonts/[name].[hash][ext]' : 'fonts/[name].[ext]',
         },
       },
     ],
